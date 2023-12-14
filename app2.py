@@ -1,7 +1,7 @@
 import pyxel
 import time
 
-pyxel.init(30, 30, fps = 10)
+pyxel.init(30,30,fps = 10)
 
 fruit = [pyxel.rndi(0,29), pyxel.rndi(0,29)]
 
